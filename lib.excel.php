@@ -1,10 +1,8 @@
 <?php
 
 /**
- * @category   ExcelFormatter
- * @package    Excel
- * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
- * @version    1.0.0 31/01/2014
+ * @category   ExcelHelper
+ * @package    php-excel
 **/
 
 
